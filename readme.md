@@ -1,13 +1,13 @@
-# BLOCKS Helper Site
+# BLOCKS Rinkeby Faucet
 
-This app helps users quickly add BLOCKS to Metamask. It also helps with adding the xDAI network, and BLOCKS on xDAI to Metamask. 
+This app helps users quickly add BLOCKS Rinkeby to Metamask. It also will deliver 2 BLOCKS testnet tokens to your connected wallet. 
 
 ## Project Notes:
 - The project relies on Metamask methods and events.
 
 ## Live Demo
 
-[BLOCKS Helper Web App](https://blocks-helper.web.app/home)
+[BLOCKS Helper Web App](https://blocks-faucet.web.app/home)
 
 ## Running Locally
 The app is built with ReactJs and Ionic Framework
