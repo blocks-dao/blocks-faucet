@@ -4,6 +4,7 @@ http://ionicframework.com/docs/theming/ */
 /** Ionic CSS Variables **/
 * {
   font-family: 'Hando', sans-serif !important;
+  color: #ffffff;
 }
 
 :root {

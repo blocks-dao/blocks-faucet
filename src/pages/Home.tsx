@@ -1,4 +1,4 @@
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonButton } from '@ionic/react';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
 import { useHistory } from 'react-router-dom';
 import ExploreContainer from '../components/ExploreContainer';
 import './Home.css';
@@ -7,10 +7,6 @@ declare const window: any;
 
 const Home: React.FC = () => {
   const history = useHistory();
-
-  const onVerify = () => {
-    history.replace("/verify");
-  }
 
   return (
     <IonPage>
@@ -21,7 +17,7 @@ const Home: React.FC = () => {
           </IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent color="dark" fullscreen>
+      <IonContent color="dark">
         <ExploreContainer />
       </IonContent>
     </IonPage>

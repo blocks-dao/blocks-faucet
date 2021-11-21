@@ -12,5 +12,8 @@
     background-position: top;
     background-repeat: no-repeat;
     background-size: 230%;
-    z-index: -1;
+}
+
+.header {
+    background-color: #000000;
 }
