@@ -7,7 +7,11 @@ This app helps users quickly add BLOCKS Rinkeby to Metamask. It also will delive
 
 ## Live Demo
 
-[BLOCKS Helper Web App](https://blocks-faucet.web.app/home)
+[BLOCKS Faucet Web App](https://blocks-faucet.web.app/home)
+
+## Faucet Smart Contract
+
+[BLOCKS Rinkeby Faucet Contract](https://rinkeby.etherscan.io/address/0x48c0ce9e141f2273501cffa581b2d309a0f24fa6#writeContract)
 
 ## Running Locally
 The app is built with ReactJs and Ionic Framework
